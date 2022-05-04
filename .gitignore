@@ -6,3 +6,6 @@
 *~
 */models/iris/*.sdf
 *.user
+
+# Ignore backup files (after first build)
+*.bak
